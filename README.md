@@ -17,9 +17,9 @@ Standardmßig aktiviert sind:
 - aktiver SSH-Zugang,
 - beschleunigte Grafiktreiber für X11.
 
-### Download der aktuellen Version vom 08.2020 (Buster-Release, SD-Karte mit mindestens 8GB ) hier
+#### Download der aktuellen Version vom 08.2020 (Buster-Release, SD-Karte mit mindestens 8GB ) hier
 https://mega.nz/file/vSZ00Y6K#yej494B-CD68MqDpl1jM-DxmYdn2ms4JpRldmxuYe1I
 
-Standardlogin: pi/raspberry
+Standardlogin auf der Console/SSH: pi/raspberry
 
-Nach dem Kopieren des Images auf eine SD-Karte können die WLAN-Zugangsdaten direkt beim ersten Booten über USB-Stick eingespielt werden. Andere Steuer- oder Displaydaemonen, sowie Skalensimulationen können per Installerskript aktiviert werden.
+Nach dem Kopieren des Images auf eine SD-Karte können die WLAN-Zugangsdaten direkt beim ersten Booten über USB-Stick eingespielt werden. Andere Steuer- oder Displaydaemonen, sowie Skalensimulationen können per Installerskript aktiviert werden. Sämtliche Konfigurationsdateien für einen USB-Stick sind im iRL-Github enthalten und können eigenen Bedürfnissen angepasst werden.
