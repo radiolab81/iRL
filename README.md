@@ -2,8 +2,10 @@
 
 iRL ist eine Linuxdistribution für Internetradios auf Basis von Debian/Raspbian für Raspberry 1A(+), 1B(+), 2B, 3A+, 3B(+), 4.
 
-![viola0](https://github.com/BM45/iRadio/blob/master/pics4www/ITT_Viola_350_1.jpeg)
-![cass](https://github.com/BM45/iRadio/blob/master/pics4www/Cassettensimulation.jpg)
+<p align="center">
+  <img width="600" height="450" src="https://github.com/BM45/iRadio/blob/master/pics4www/ITT_Viola_350_1.jpeg">
+  <img width="600" height="450" src="https://github.com/BM45/iRadio/blob/master/pics4www/Cassettensimulation.jpg">
+</p>
 
 Die Linuxdistribution enthält den zum Releasedatum gültigen Stand des iRadio-Softwarebaukastens https://github.com/BM45/iRadio .
 Standardmßig aktiviert sind:
