@@ -1,4 +1,4 @@
-# iRL - Linuxdistribution für Internetradios
+# iRadio on Linux ist eine Linuxdistribution für Internetradios
 
 iRL ist eine Linuxdistribution für Internetradios auf Basis von Debian/Raspbian für Raspberry 1A(+), 1B(+), 2B, 3A+, 3B(+), 4.
 
