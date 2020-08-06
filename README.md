@@ -22,4 +22,4 @@ https://mega.nz/file/vSZ00Y6K#yej494B-CD68MqDpl1jM-DxmYdn2ms4JpRldmxuYe1I
 
 Standardlogin auf der Console/SSH: pi/raspberry
 
-Nach dem Kopieren des Images auf eine SD-Karte können die WLAN-Zugangsdaten direkt beim ersten Booten über USB-Stick eingespielt werden. Andere Steuer- oder Displaydaemonen, sowie Skalensimulationen können per Installerskript aktiviert werden. Sämtliche Konfigurationsdateien für einen USB-Stick sind im iRL-Github enthalten und können eigenen Bedürfnissen angepasst werden.
+Nach dem Kopieren des Images auf eine SD-Karte können die WLAN-Zugangsdaten direkt beim ersten Booten über USB-Stick eingespielt werden. Andere Steuer- oder Displaydaemonen, sowie Skalensimulationen können per Installerskript (zum Beispiel monitorlos über SSH) aktiviert werden. Sämtliche Konfigurationsdateien für einen USB-Stick sind im iRL-Github enthalten und können eigenen Bedürfnissen angepasst werden.
