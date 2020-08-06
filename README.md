@@ -18,7 +18,7 @@ Standardmßig aktiviert sind:
 - beschleunigte Grafiktreiber für X11.
 
 #### Download der aktuellen Version vom 08.2020 (Buster-Release, SD-Karte mit mindestens 8GB ) hier
-https://mega.nz/file/vSZ00Y6K#yej494B-CD68MqDpl1jM-DxmYdn2ms4JpRldmxuYe1I
+(2.47GB) https://mega.nz/file/vSZ00Y6K#yej494B-CD68MqDpl1jM-DxmYdn2ms4JpRldmxuYe1I
 
 Standardlogin auf der Console/SSH: pi/raspberry
 
