@@ -1,6 +1,6 @@
 # iRadio on Linux ist eine Linuxdistribution für Internetradios
 
-iRL ist eine Linuxdistribution für Internetradios auf Basis von Debian/Raspbian für Raspberry 1A(+), 1B(+), 2B, 3A+, 3B(+), 4 (funkt. eingeschränkt).
+iRL ist eine Linuxdistribution für Internetradios auf Basis von Debian/Raspbian für Raspberry 1A(+), 1B(+), 2B, 3A+, 3B(+), 4 (funkt. eingeschränkt). 
 
 <p align="center">
   <img width="700" height="450" src="https://github.com/BM45/iRadio/blob/master/pics4www/ITT_Viola_350_1.jpeg">
@@ -19,6 +19,7 @@ Standardmßig aktiviert sind:
 
 #### Download der aktuellen Version vom 08.2020 (Buster-Release, SD-Karte mit mindestens 8GB ) hier
 (2.47GB) https://mega.nz/file/vSZ00Y6K#yej494B-CD68MqDpl1jM-DxmYdn2ms4JpRldmxuYe1I
+$${\color{red} Status \space EOL - für \space dieses \space Betriebssystem \space werden \space keine \space Sicherheitsupdates \space mehr \space bereitgestellt!}$$
 
 #### Checksum für rar:
 
